@@ -34,14 +34,14 @@
 ### Experience
 
 - Maintainer & Developer for [Brightics Studio][BrighticsStudio], 2018 ~ Currently
-- Develop & Support Big data solution, Brightics AI, 2015 ~ Currently 
+- Develop & Support Big data solution, [Brightics AI][brighticsai], 2015 ~ Currently 
 - Developed Certification management module for SAMSUNG SDS EMM Solution, iOS. June 2014 - 2015
 - Developed Git repository service using Gitlab open-source. Apr 2014 - Dec 2014
 - Created and developed new business plans based on diverse technology. Dec 2013 -Mar 2014
 - Developed administrator blog using java, html and javascript. Video hub Project, ( SAMSUNG Electronics ) Oct 2012 - Nov 2013
 - Sensed and reported new technology, new business model and startups. June 2010 - Sep 2012
-- Developed an Android Ebook Viewer using Android API and Java. Reader's hub Project, ( SAMSUNG Electronics ) Mar 2010 - July 2010
-- Developed, consulting and technical support RFID Liquid distribution system. ( National Tax Service of Korea) Sep 2008 - Feb 2010
+- Developed an Android Ebook Viewer using Android API and Java. Galaxy Reader's hub Project, ( SAMSUNG Electronics ) Mar 2010 - July 2010
+- Developed, consulting and technical support [RFID Liquid distribution system][rfid]. ( National Tax Service of Korea ) Sep 2008 - Feb 2010
 
 ---
 
@@ -69,3 +69,5 @@
 [book2]: https://books.apple.com/us/book/코더스하이-튜토리얼-프라이머/id778331853
 [2ndjobs]: http://2ndjobs.tumblr.com
 [BrighticsStudio]: https://github.com/brightics/studio
+[brighticsai]: http://brightics.ai
+[rfid]: http://www.wa1004.co.kr/business/ntsSystem.do
