@@ -45,6 +45,14 @@
 
 ---
 
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+
 <img align="left" alt="krazyeom's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=krazyeom&show_icons=true&hide_border=true" />
 
 [blog]: https://www.appilogue.kr
