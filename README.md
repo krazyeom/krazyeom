@@ -52,7 +52,7 @@
 - [애플 파크 비지터 센터를 방문하다!](https://www.appilogue.kr/2844703)
 - [iTunes 12.7에서 12.6.3으로 다운그레이드 하기](https://www.appilogue.kr/2844702)
 - [외장 하드 포멧하기 for macOS](https://www.appilogue.kr/2844701)
-- [다이어트 성공?기 + 플랭크 60여일](https://www.appilogue.kr/2844700)
+- [하이 시에라에서 버츄얼 박스 설치 방법](https://www.appilogue.kr/2844699)
 <!-- BLOG-POST-LIST:END -->
 
 ---
