@@ -4,14 +4,14 @@
 **krazyeom/krazyeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## I'm living in Suji, South Korea, Suji's Husband, Father, and Developer. 
+## I'm living in Suji, South Korea, Suji's Husband 🤣, Father, and Developer. 
 
 - 🔭 I'm currently working on SAMSUNG SDS
 - 🎮 I like to play video games on free time with my daugther. 
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am a huge fan of Apple 🍎!
+- ⚡ Fun fact: I am a huge fan of Apple 🍎
 - 📫 How to reach me: 
 
 [<img align="left" alt="www.appilogue.kr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
