@@ -21,7 +21,7 @@
 [<img align="left" alt="krazyeom | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
-### Publications
+### 📕 Publications
 
 - [드래곤 라이더 만들기][book]
 - [코더스하이 튜토리얼 프라이머][book2]
