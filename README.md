@@ -25,7 +25,7 @@
 
 - [드래곤 라이더 만들기][book]
 - [코더스하이 튜토리얼 프라이머][book2]
-- iOS와 OS X의 메모리 관리와 멀티스레딩 기법 (Translation)
+- [iOS와 OS X의 메모리 관리와 멀티스레딩 기법][book3] (Translation)
 
 ### Founder & Mobile Developer
 
@@ -67,6 +67,7 @@
 [linkedin]: https://linkedin.com/in/krazyeom
 [book]: https://books.apple.com/us/book/deulaegon-laideo-mandeulgi/id735921791
 [book2]: https://books.apple.com/us/book/코더스하이-튜토리얼-프라이머/id778331853
+[book3]: http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788993827651
 [2ndjobs]: http://2ndjobs.tumblr.com
 [BrighticsStudio]: https://github.com/brightics/studio
 [brighticsai]: http://brightics.ai
