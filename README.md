@@ -5,9 +5,9 @@
 -->
 
 ## I'm living in Suji, South Korea, Suji's Husband 🤣, Father, and Developer. 
-
+- 🐱😼 I have two cats: Mike and Tomy
 - 🔭 I'm currently working on SAMSUNG SDS
-- 🎮 I like to play video games on free time with my daugther. 
+- 🎮 I like to play video games on free time with my daugther
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him/His
