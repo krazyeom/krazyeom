@@ -29,6 +29,7 @@
 - Former Translation Team member for [Ray Wenderlich][ray]
 - [Discover Meteor, Korean Version][meteorkr] (Translation), Original [Discover Meteor][meteor] 
 - [Your First Meteor Application: A Complete Beginner's Guide to the Meteor JavaScript Framework][firstmeteor] (Translation)
+- [iOS 9 Day By Day][ios9daybyday] (Translation)
 
 ### Founder & Mobile Developer
 
@@ -81,3 +82,4 @@
 [meteorkr]: https://github.com/DiscoverMeteor/DiscoverMeteor_Kr
 [meteor]: http://www.discovermeteor.com/
 [firstmeteor]: https://www.amazon.com/Your-First-Meteor-Application-JavaScript-ebook/dp/B00MA8KVAY
+[ios9daybyday]: https://github.com/krazyeom/iOS_9_Day_By_Day
