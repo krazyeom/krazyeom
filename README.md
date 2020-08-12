@@ -6,13 +6,13 @@
 
 ## I'm living in Suji, South Korea, Suji's Husband 🤣, Father, and Developer. 
 - 🐱😼 I have two cats: Mike and Tomy
-- 👩 SJ, 👧 DY
+- 👩 Wife: SJ, 👧 Daughter: DY
 - 🔭 I'm currently working on SAMSUNG SDS
-- 🎮 I like to play video games on free time with my daugther
+- 🎮 I like to play video games on free time with 👧
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am a huge fan of Apple 🍎
+- ⚡ Fun fact: I am a huge fan of Apple 🍎, and using iPhone 📱. Also I have more than 10 Mac (💻 and 🖥️)
 - 📫 How to reach me: 
 
 [<img align="left" alt="www.appilogue.kr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
