@@ -26,6 +26,9 @@
 - [드래곤 라이더 만들기][book]
 - [코더스하이 튜토리얼 프라이머][book2]
 - [iOS와 OS X의 메모리 관리와 멀티스레딩 기법][book3] (Translation)
+- Former Translation Team member for [Ray Wenderlich][ray]
+- [Discover Meteor, Korean Version][meteorkr] (Translation), Original [Discover Meteor][meteor] 
+- [Your First Meteor Application: A Complete Beginner's Guide to the Meteor JavaScript Framework][firstmeteor] (Translation)
 
 ### Founder & Mobile Developer
 
@@ -74,3 +77,7 @@
 [rfid]: http://www.wa1004.co.kr/business/ntsSystem.do
 [videohub]: http://www.does.kr/collection/galaxynote101/hub-video.html
 [readershub]: http://www.does.kr/collection/galaxynote101/hub-readers.html
+[ray]: https://www.raywenderlich.com/
+[meteorkr]: https://github.com/DiscoverMeteor/DiscoverMeteor_Kr
+[meteor]: http://www.discovermeteor.com/
+[firstmeteor]: https://www.amazon.com/Your-First-Meteor-Application-JavaScript-ebook/dp/B00MA8KVAY
