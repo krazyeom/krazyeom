@@ -53,11 +53,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [윈도 10 버전 2004 업데이트 후 numpy 에러 발생 및 해결](https://www.appilogue.kr/2844705)
 - [raywenderich 동영상 다운로드 받는 방법](https://www.appilogue.kr/2844704)
 - [애플 파크 비지터 센터를 방문하다!](https://www.appilogue.kr/2844703)
 - [iTunes 12.7에서 12.6.3으로 다운그레이드 하기](https://www.appilogue.kr/2844702)
 - [외장 하드 포멧하기 for macOS](https://www.appilogue.kr/2844701)
-- [하이 시에라에서 버츄얼 박스 설치 방법](https://www.appilogue.kr/2844699)
 <!-- BLOG-POST-LIST:END -->
 
 ---
