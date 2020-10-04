@@ -53,11 +53,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ASUS RT-AC68U 쿨러 달아주기](https://www.appilogue.kr/2844708)
 - [asus 무선공유기 ssh-key 로그인 방법](https://www.appilogue.kr/2844707)
 - [윈도 10 버전 2004 업데이트 후 numpy 에러 발생 및 해결](https://www.appilogue.kr/2844705)
 - [raywenderich 동영상 다운로드 받는 방법](https://www.appilogue.kr/2844704)
 - [애플 파크 비지터 센터를 방문하다!](https://www.appilogue.kr/2844703)
-- [iTunes 12.7에서 12.6.3으로 다운그레이드 하기](https://www.appilogue.kr/2844702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
