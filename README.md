@@ -38,8 +38,8 @@
 
 ### Experience
 
-- Maintainer & Developer for [Brightics Studio][BrighticsStudio], 2018 ~ Currently
-- Develop & Support Big data solution, [Brightics AI][brighticsai], 2015 ~ Currently 
+- Maintainer & Developer for [Brightics Studio][BrighticsStudio], 2018 ~ May 2021
+- Develop & Support Big data solution, [Brightics AI][brighticsai], 2015 ~ May 2021
 - Developed Certification management module for SAMSUNG SDS EMM Solution, iOS. June 2014 - 2015
 - Developed Git repository service using Gitlab open-source. Apr 2014 - Dec 2014
 - Created and developed new business plans based on diverse technology. Dec 2013 -Mar 2014
