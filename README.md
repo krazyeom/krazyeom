@@ -38,8 +38,10 @@
 
 ### Experience
 
-- Maintainer & Developer for [Brightics Studio][BrighticsStudio], 2018 ~ May 2021
-- Develop & Support Big data solution, [Brightics AI][brighticsai], 2015 ~ May 2021
+- Developed & Support [Brightics Law][brighticslaw], July 2021 ~ Currently
+- Developed Brightics ML for [AWS Marketplace][marketplace], Feb 2021 ~ June 2021
+- Maintainer & Developer [Brightics Studio][BrighticsStudio], 2018 ~ June 2021
+- Developed & Support Big data solution, [Brightics AI][brighticsai], 2015 ~ June 2021
 - Developed Certification management module for SAMSUNG SDS EMM Solution, iOS. June 2014 - 2015
 - Developed Git repository service using Gitlab open-source. Apr 2014 - Dec 2014
 - Created and developed new business plans based on diverse technology. Dec 2013 -Mar 2014
@@ -84,3 +86,5 @@
 [meteor]: http://www.discovermeteor.com/
 [firstmeteor]: https://www.amazon.com/Your-First-Meteor-Application-JavaScript-ebook/dp/B00MA8KVAY
 [ios9daybyday]: https://github.com/krazyeom/iOS_9_Day_By_Day
+[marketplace]: https://aws.amazon.com/marketplace/pp/prodview-kjudlkzdgylv2
+[brighticslaw]: https://www.brighticslaw.ai/
