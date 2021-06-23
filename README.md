@@ -49,6 +49,7 @@
 - Sensed and reported new technology, new business model and startups. June 2010 - Sep 2012
 - Developed an Android Ebook Viewer using Android API and Java. Galaxy [Reader's Hub][readershub] Project, ( SAMSUNG Electronics ) Mar 2010 - July 2010
 - Developed, consulting and technical support [RFID Liquid distribution system][rfid]. ( National Tax Service of Korea ) Sep 2008 - Feb 2010
+- Technical support [Electronic Anklet][ea]. (Ministry of Justice), June 2008 ~ Aug 2008
 
 ---
 
@@ -88,3 +89,4 @@
 [ios9daybyday]: https://github.com/krazyeom/iOS_9_Day_By_Day
 [marketplace]: https://aws.amazon.com/marketplace/pp/prodview-kjudlkzdgylv2
 [brighticslaw]: https://www.brighticslaw.ai/
+[ea]: https://www.moj.go.kr/moj/169/subview.do
