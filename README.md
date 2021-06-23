@@ -66,7 +66,7 @@
 ---
 
 
-<img align="left" alt="krazyeom's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=krazyeom&show_icons=true&hide_border=true" />
+<img align="left" alt="krazyeom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krazyeom&show_icons=true&hide_border=true" />
 
 [blog]: https://www.appilogue.kr
 [twitter]: https://twitter.com/krazyeom
