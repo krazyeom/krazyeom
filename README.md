@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am a huge fan of Apple 🍎, and using iPhone 📱. Also I have more than 10 Mac (💻 and 🖥️)
+- ⚡ Fun fact: I am a huge fan of Apple 🍎, and using iPhone 📱. Also I have more than 10 Macs (💻 and 🖥️)
 - 📫 How to reach me: 
 
 [<img align="left" alt="www.appilogue.kr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
