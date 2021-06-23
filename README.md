@@ -38,7 +38,7 @@
 
 ### Experience
 
-- Developed & Support [Brightics Law][brighticslaw], July 2021 ~ Currently
+- Develop & Support [Brightics Law][brighticslaw], July 2021 ~ Currently
 - Developed Brightics ML for [AWS Marketplace][marketplace], Feb 2021 ~ June 2021
 - Maintainer & Developer [Brightics Studio][BrighticsStudio], 2018 ~ June 2021
 - Developed & Support Big data solution, [Brightics AI][brighticsai], 2015 ~ June 2021
