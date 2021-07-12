@@ -11,7 +11,6 @@
 - 🎮 I like to play video games on free time with 👧
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about anything
-- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a huge fan of Apple 🍎, and using iPhone 📱. Also I have more than 10 Macs (💻 and 🖥️)
 - 📫 How to reach me: 
 
