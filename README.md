@@ -1,58 +1,131 @@
-### Hi there. I'm Sungwook Yeom - aka [krazyeom][blog] 👋
+### Hi there, I'm Sungwook Yeom — aka [krazyeom][blog] 👋
 
 <!--
 **krazyeom/krazyeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## I'm living in Suji, South Korea, Suji's Husband 🤣, Father, and Developer. 
+## Based in Suji, South Korea 🇰🇷  
+Husband 🤣, Father, and Software Engineer.
+
 - 🐱😼 I have one cat, Tomy, and Mike has crossed the Rainbow Bridge 🌈.
 - 👩 Wife: SJ, 👧 Daughter: DY
-- 🔭 I'm currently working on SAMSUNG SDS
-- 🎮 I like to play video games on free time with 👧
-- 🌱 I’m currently learning everything 🤣
-- 💬 Ask me about anything
-- ⚡ Fun fact: I am a huge fan of Apple 🍎, and using iPhone 📱. Also I have more than 10 Macs (💻 and 🖥️)
-- 📫 How to reach me: 
+- 🔭 Currently working at **SAMSUNG SDS**
+- 🎮 Enjoy gaming in my free time with my daughter 👧
+- 🌱 Constantly learning — mostly by breaking things first 🤣
+- 💬 Ask me about engineering, automation, or random side projects
+- ⚡ Fun fact: I’m an Apple 🍎 fan by poor life choices.  
+  I use an iPhone 📱, and somehow ended up owning **10+ Macs** (💻🖥️).  
+  At this point, I’m basically running a small Apple museum at home.
+- 📫 How to reach me:
 
 [<img align="left" alt="www.appilogue.kr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
 [<img align="left" alt="krazyeom | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="krazyeom | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="krazyeom | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="krazyeom | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <br />
+
+---
 
 ### 📕 Publications
 
 - [드래곤 라이더 만들기][book]
 - [코더스하이 튜토리얼 프라이머][book2]
 - [iOS와 OS X의 메모리 관리와 멀티스레딩 기법][book3] (Translation)
-- Former Translation Team member for [Ray Wenderlich][ray]
-- [Discover Meteor, Korean Version][meteorkr] (Translation), Original [Discover Meteor][meteor] 
+- Former Translation Team Member at [Ray Wenderlich][ray]
+- [Discover Meteor, Korean Version][meteorkr] (Translation), original: [Discover Meteor][meteor]
 - [Your First Meteor Application: A Complete Beginner's Guide to the Meteor JavaScript Framework][firstmeteor] (Translation)
 - [iOS 9 Day By Day][ios9daybyday] (Translation)
 
-### Founder & Mobile Developer
+---
 
-- Developed iOS, OS X and Android Game applications on [2nd jobs studio][2ndjobs]
+### 💼 Experience (Resume Style)
 
-### Experience
-
-- Develop & Support [Cello Tracking](https://www.cellotracking.com/), Nov 2022 ~ Currently
-- Develop & Support [Brightics Law][brighticslaw], July 2021 ~ Oct 2022
-- Developed Brightics ML for [AWS Marketplace][marketplace], Feb 2021 ~ June 2021
-- Maintainer & Developer [Brightics Studio][BrighticsStudio], 2018 ~ June 2021
-- Developed & Support Big data solution, [Brightics AI][brighticsai], 2015 ~ June 2021
-- Developed Certification management module for SAMSUNG SDS EMM Solution, iOS. June 2014 - 2015
-- Developed Git repository service using Gitlab open-source. Apr 2014 - Dec 2014
-- Created and developed new business plans based on diverse technology. Dec 2013 -Mar 2014
-- Developed HA system and Administrator Pages using java, html, and javascript. [Video Hub][videohub] Project, ( SAMSUNG Electronics ) Oct 2012 - Nov 2013
-- Sensed and reported new technology, new business model and startups. June 2010 - Sep 2012
-- Developed an Android Ebook Viewer using Android API and Java. Galaxy [Reader's Hub][readershub] Project, ( SAMSUNG Electronics ) Mar 2010 - July 2010
-- Developed, consulting and technical support [RFID Liquid distribution system][rfid]. ( National Tax Service of Korea ) Sep 2008 - Feb 2010
-- Technical support [Electronic Anklet][ea]. (Ministry of Justice), June 2008 ~ Aug 2008
+**SAMSUNG SDS** — *Senior Software Engineer*  
+**Nov 2022 – Present**  
+- Lead development and operation of **Cello Tracking**, a global logistics visibility platform
+- Improved system reliability and operational stability across production environments  
+- **Tech Stack:** Java, Spring Boot, JavaScript, REST APIs, Kubernetes, AWS  
+- **Impact:** Supported large-scale enterprise customers with high-availability requirements
 
 ---
 
+**Brightics Law** — *Software Engineer*  
+**Jul 2021 – Oct 2022**  
+- Built and maintained a legal-tech platform focused on data-driven compliance automation  
+- Collaborated closely with domain experts to translate legal requirements into software  
+- **Tech Stack:** Java, Spring, React, PostgreSQL  
+- **Impact:** Enabled faster compliance checks and reduced manual review effort
+
+---
+
+**Brightics ML (AWS Marketplace)** — *Software Engineer*  
+**Feb 2021 – Jun 2021**  
+- Developed and packaged machine learning solutions for public distribution via AWS Marketplace  
+- Worked on deployment automation and customer-ready ML pipelines  
+- **Tech Stack:** Python, ML Pipelines, Docker, AWS (SageMaker, EC2)  
+- **Impact:** Successfully published enterprise ML products to a global marketplace
+
+---
+
+**Brightics Studio** — *Maintainer & Software Engineer*  
+**2018 – Jun 2021**  
+- Maintained and extended a visual analytics and machine learning studio platform  
+- Handled core features, bug fixes, and long-term technical debt  
+- **Tech Stack:** Java, JavaScript, Web UI, Data Visualization  
+- **Impact:** Supported data scientists with a stable, production-ready analytics tool
+
+---
+
+**Brightics AI** — *Software Engineer*  
+**2015 – Jun 2021**  
+- Developed enterprise-grade big data and AI solutions from early-stage to production  
+- Worked across ingestion, processing, and analytics layers  
+- **Tech Stack:** Java, Hadoop, Spark, Distributed Systems  
+- **Impact:** Delivered scalable AI platforms used by multiple enterprise clients
+
+---
+
+**SAMSUNG SDS (EMM Solution)** — *iOS Developer*  
+**Jun 2014 – 2015**  
+- Developed an enterprise iOS certification management module  
+- Focused on security, device authentication, and system integration  
+- **Tech Stack:** Objective-C, iOS SDK  
+- **Impact:** Supported secure mobile device management for enterprise users
+
+---
+
+**SAMSUNG Electronics — Video Hub Project** — *Software Engineer*  
+**Oct 2012 – Nov 2013**  
+- Developed HA systems and admin tools for media services  
+- **Tech Stack:** Java, HTML, JavaScript  
+- **Impact:** Improved service reliability for large-scale media distribution
+
+---
+
+**SAMSUNG Electronics — Galaxy Reader’s Hub** — *Android Developer*  
+**Mar 2010 – Jul 2010**  
+- Built an Android eBook reader application for Galaxy devices  
+- **Tech Stack:** Java, Android SDK  
+- **Impact:** Shipped a consumer-facing app used by Galaxy users
+
+---
+
+**National Tax Service of Korea** — *Software Engineer / Consultant*  
+**Sep 2008 – Feb 2010**  
+- Developed and supported the [RFID Liquid Distribution System][rfid]  
+- **Tech Stack:** Java, RFID Systems, Backend Services  
+- **Impact:** Supported national-scale tax and distribution infrastructure
+
+---
+
+**Ministry of Justice, Korea** — *Technical Support Engineer*  
+**Jun 2008 – Aug 2008**  
+- Provided technical support for the [Electronic Anklet System][ea]  
+- **Impact:** Supported critical public safety infrastructure
+
+---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -65,8 +138,7 @@
 
 ---
 
-
-<img align="left" alt="krazyeom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krazyeom&show_icons=true&hide_border=true" />
+<img align="left" alt="krazyeom's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krazyeom&show_icons=true&hide_border=true" />
 
 [blog]: https://www.appilogue.kr
 [twitter]: https://twitter.com/krazyeom
@@ -76,17 +148,10 @@
 [book]: https://books.apple.com/us/book/deulaegon-laideo-mandeulgi/id735921791
 [book2]: https://books.apple.com/us/book/코더스하이-튜토리얼-프라이머/id778331853
 [book3]: http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788993827651
-[2ndjobs]: http://2ndjobs.tumblr.com
-[BrighticsStudio]: https://github.com/brightics/studio
-[brighticsai]: http://brightics.ai
-[rfid]: http://www.wa1004.co.kr/business/ntsSystem.do
-[videohub]: http://www.does.kr/collection/galaxynote101/hub-video.html
-[readershub]: http://www.does.kr/collection/galaxynote101/hub-readers.html
 [ray]: https://www.raywenderlich.com/
 [meteorkr]: https://github.com/DiscoverMeteor/DiscoverMeteor_Kr
 [meteor]: http://www.discovermeteor.com/
 [firstmeteor]: https://www.amazon.com/Your-First-Meteor-Application-JavaScript-ebook/dp/B00MA8KVAY
 [ios9daybyday]: https://github.com/krazyeom/iOS_9_Day_By_Day
-[marketplace]: https://aws.amazon.com/marketplace/pp/prodview-kjudlkzdgylv2
-[brighticslaw]: https://www.brighticslaw.ai/
+[rfid]: http://www.wa1004.co.kr/business/ntsSystem.do
 [ea]: https://www.moj.go.kr/moj/169/subview.do
