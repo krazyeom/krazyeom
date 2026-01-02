@@ -5,7 +5,7 @@
 -->
 
 ## I'm living in Suji, South Korea, Suji's Husband 🤣, Father, and Developer. 
-- 🐱😼 I have two cats: Mike and Tomy
+- 🐱😼 I have one cat, Tomy, and Mike has crossed the Rainbow Bridge 🌈.
 - 👩 Wife: SJ, 👧 Daughter: DY
 - 🔭 I'm currently working on SAMSUNG SDS
 - 🎮 I like to play video games on free time with 👧
