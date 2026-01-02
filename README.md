@@ -5,7 +5,7 @@
 -->
 
 ## Based in Suji, South Korea 🇰🇷  
-Husband 🤣, Father, and Software Engineer.
+Husband of Suji 🤣 — living in Suji, Father, and Software Engineer.
 
 - 🐱😼 I have one cat, Tomy, and Mike has crossed the Rainbow Bridge 🌈.
 - 👩 Wife: SJ, 👧 Daughter: DY
@@ -40,7 +40,7 @@ Husband 🤣, Father, and Software Engineer.
 
 ---
 
-### 💼 Experience (Resume Style)
+### 💼 Experience
 
 **SAMSUNG SDS** — *Senior Software Engineer*  
 **Nov 2022 – Present**  
